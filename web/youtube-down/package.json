@@ -1,0 +1,43 @@
+{
+  "name": "youtube-down",
+  "version": "1.0.0",
+  "description": "",
+  "main": "youtube-down.js",
+  "dependencies": {
+    "serverless-http": "*",
+    "get-youtube-id": "*",
+    "vuetify-loader": "1.2.2",
+    "serverless-apigw-binary": "*",
+    "@nuxtjs/google-gtag": "*",
+    "nuxt": "2.11.0",
+    "vue-async-computed": "*",
+    "vue-moment": "*",
+    "express": "*",
+    "underscore": "*",
+    "aos": "*",
+    "vuetify": "1.5.16",
+    "js-file-download": "*",
+    "@nuxtjs/pwa": "*",
+    "@nuxtjs/axios": "*"
+  },
+  "devDependencies": {
+    "serverless-offline": "*",
+    "serverless-prune-plugin": "*",
+    "vue-beautify-loader": "*",
+    "stylus": "*",
+    "stylus-loader": "*",
+    "babel-plugin-transform-imports": "*"
+  },
+  "scripts": {
+    "dev": "nuxt --port 3001",
+    "build": "nuxt build --no-lock",
+    "start": "nuxt start --no-lock",
+    "generate": "nuxt generate",
+    "deploy": "nuxt build --no-lock && sls deploy",
+    "start-server": "npm run build && node app.js",
+    "start-sls": "npm run build && sls offline start"
+  },
+  "keywords": [],
+  "author": "Pablo Schaffner",
+  "license": "MIT"
+}

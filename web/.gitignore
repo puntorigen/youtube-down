@@ -1,0 +1,18 @@
+# Mac System files
+.DS_Store
+.DS_Store?
+__MACOSX/
+Thumbs.db
+
+# VUE files
+.nuxt/
+# Concepto files
+dsl_cache/
+dsl_cache.ini
+tmp.ini
+vue.dsl
+stats.txt
+stats.json
+store/
+Youtube-down/node_modules/
+Youtube-down/secrets/

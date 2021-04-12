@@ -1,0 +1,23 @@
+{
+    "plugins": ["./node_modules/jsdoc-i18n-plugin/"],
+    "i18n": {
+       "locale": "en_ES",
+       "directory": "./doc/en_ES/",
+       "srcDir": "./doc/en_US/",
+       "extension": ".js"
+    },
+    "tags": {
+        "allowUnknownTags": true
+    },
+    "opts": {
+        "encoding": "utf8",
+        "destination": "./public/doc/",
+        "recurse": true,
+        "template": "./node_modules/@pixi/jsdoc-template"
+    },
+    "templates": {
+      "default": {
+          "outputSourceFiles": false
+      }
+    }
+}

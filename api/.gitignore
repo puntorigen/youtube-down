@@ -1,0 +1,16 @@
+# Mac System files
+.DS_Store
+.DS_Store?
+__MACOSX/
+Thumbs.db
+
+# Concepto files
+dsl_cache/
+dsl_cache.ini
+tmp.ini
+eb.dsl
+stats.txt
+stats.json
+store/
+youtubedownapi/node_modules/
+youtubedownapi/secrets/

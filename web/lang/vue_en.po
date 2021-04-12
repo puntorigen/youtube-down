@@ -1,0 +1,36 @@
+"MIME-Version: 1.0\n"
+"Language: en\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: youtube-down 1.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: Pablo Schaffner <pablo@puntorigen.com>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Report-Msgid-Bugs-To: pablo@puntorigen.com\n"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "vacio"
+msgstr "vacio"
+
+msgid """"
+msgstr """"
+
+msgid "secs"
+msgstr "secs"
+
+msgid "mp4"
+msgstr "mp4"
+
+msgid "paste your link here"
+msgstr "paste your link here"
+
+msgid "Youtube-down.com - Download any video/mp3 from youtube! Save and download youtube videos without any software or app"
+msgstr "Youtube-down.com - Download any video/mp3 from youtube! Save and download youtube videos without any software or app"
+
+msgid "v"
+msgstr "v"
+
+msgid ""
+msgstr ""
+
